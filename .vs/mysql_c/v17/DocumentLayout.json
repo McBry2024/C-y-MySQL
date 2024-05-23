@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\garci\\OneDrive\\Documentos\\Programacion1\\mysql_c\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B8EDB6C3-EACD-4235-9737-ADFA89350261}|mysql_c\\mysql_c.vcxproj|C:\\Users\\garci\\OneDrive\\Documentos\\Programacion1\\mysql_c\\mysql_c\\Estudiante.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B8EDB6C3-EACD-4235-9737-ADFA89350261}|mysql_c\\mysql_c.vcxproj|solutionrelative:mysql_c\\Estudiante.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8EDB6C3-EACD-4235-9737-ADFA89350261}|mysql_c\\mysql_c.vcxproj|C:\\Users\\garci\\OneDrive\\Documentos\\Programacion1\\mysql_c\\mysql_c\\Estudiante.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B8EDB6C3-EACD-4235-9737-ADFA89350261}|mysql_c\\mysql_c.vcxproj|solutionrelative:mysql_c\\Estudiante.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8EDB6C3-EACD-4235-9737-ADFA89350261}|mysql_c\\mysql_c.vcxproj|C:\\Users\\garci\\OneDrive\\Documentos\\Programacion1\\mysql_c\\mysql_c\\mysql_c.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B8EDB6C3-EACD-4235-9737-ADFA89350261}|mysql_c\\mysql_c.vcxproj|solutionrelative:mysql_c\\mysql_c.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8EDB6C3-EACD-4235-9737-ADFA89350261}|mysql_c\\mysql_c.vcxproj|C:\\Users\\garci\\OneDrive\\Documentos\\Programacion1\\mysql_c\\mysql_c\\ConexionBD.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B8EDB6C3-EACD-4235-9737-ADFA89350261}|mysql_c\\mysql_c.vcxproj|solutionrelative:mysql_c\\ConexionBD.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8EDB6C3-EACD-4235-9737-ADFA89350261}|mysql_c\\mysql_c.vcxproj|C:\\Users\\garci\\OneDrive\\Documentos\\Programacion1\\mysql_c\\mysql_c\\Tipo_sangre.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B8EDB6C3-EACD-4235-9737-ADFA89350261}|mysql_c\\mysql_c.vcxproj|solutionrelative:mysql_c\\Tipo_sangre.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 106,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Estudiante.cpp",
+              "DocumentMoniker": "C:\\Users\\garci\\OneDrive\\Documentos\\Programacion1\\mysql_c\\mysql_c\\Estudiante.cpp",
+              "RelativeDocumentMoniker": "mysql_c\\Estudiante.cpp",
+              "ToolTip": "C:\\Users\\garci\\OneDrive\\Documentos\\Programacion1\\mysql_c\\mysql_c\\Estudiante.cpp",
+              "RelativeToolTip": "mysql_c\\Estudiante.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-23T04:43:29.705Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Estudiante.h",
+              "DocumentMoniker": "C:\\Users\\garci\\OneDrive\\Documentos\\Programacion1\\mysql_c\\mysql_c\\Estudiante.h",
+              "RelativeDocumentMoniker": "mysql_c\\Estudiante.h",
+              "ToolTip": "C:\\Users\\garci\\OneDrive\\Documentos\\Programacion1\\mysql_c\\mysql_c\\Estudiante.h",
+              "RelativeToolTip": "mysql_c\\Estudiante.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAJoAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-05-23T03:47:06.221Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Tipo_sangre.h",
+              "DocumentMoniker": "C:\\Users\\garci\\OneDrive\\Documentos\\Programacion1\\mysql_c\\mysql_c\\Tipo_sangre.h",
+              "RelativeDocumentMoniker": "mysql_c\\Tipo_sangre.h",
+              "ToolTip": "C:\\Users\\garci\\OneDrive\\Documentos\\Programacion1\\mysql_c\\mysql_c\\Tipo_sangre.h",
+              "RelativeToolTip": "mysql_c\\Tipo_sangre.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-05-23T03:45:18.546Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ConexionBD.h",
+              "DocumentMoniker": "C:\\Users\\garci\\OneDrive\\Documentos\\Programacion1\\mysql_c\\mysql_c\\ConexionBD.h",
+              "RelativeDocumentMoniker": "mysql_c\\ConexionBD.h",
+              "ToolTip": "C:\\Users\\garci\\OneDrive\\Documentos\\Programacion1\\mysql_c\\mysql_c\\ConexionBD.h",
+              "RelativeToolTip": "mysql_c\\ConexionBD.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-05-23T03:10:53.602Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "mysql_c.cpp",
+              "DocumentMoniker": "C:\\Users\\garci\\OneDrive\\Documentos\\Programacion1\\mysql_c\\mysql_c\\mysql_c.cpp",
+              "RelativeDocumentMoniker": "mysql_c\\mysql_c.cpp",
+              "ToolTip": "C:\\Users\\garci\\OneDrive\\Documentos\\Programacion1\\mysql_c\\mysql_c\\mysql_c.cpp",
+              "RelativeToolTip": "mysql_c\\mysql_c.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-23T03:02:28.126Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
